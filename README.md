@@ -33,6 +33,9 @@ I am a Civil and Structural Engineering graduate transitioning into Data Analyti
 LuxDevHQ-Data-Analytics/
 │
 ├── Excel/
+    ├── Sales and Operation Analytics/
+│   │   ├── Sales and Operation Analytics.xlsx           # Cleaned & enriched dataset + dashboard
+│   │   └── README.md
 │   ├── Jumia_Product_Analysis/
 │   │   ├── Excel_jumia_dataset.xlsx           # Cleaned & enriched dataset + dashboard
 │   │   ├── Jumia_Analysis_Documentation.docx  # Data cleaning & analysis write-up
