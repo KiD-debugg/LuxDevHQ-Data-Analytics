@@ -65,7 +65,7 @@ A full end-to-end data analysis project on a real-world Jumia e-commerce dataset
 
 A published article written as a personal reflection on how Excel is applied in real-world professional settings — covering financial reporting, HR data management, and project timeline tracking.
 
-🔗 [Read the article on DEV.to](#) *(update this link after publishing)*
+🔗 [Read the article on DEV.to](#) 
 
 ---
 
