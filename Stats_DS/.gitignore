@@ -1,0 +1,9 @@
+# Ignore the local virtual environment.
+*
+!.gitignore
+!requirements.txt
+!code/
+!code/**
+!data/
+!data/**
+data/*.pdf
